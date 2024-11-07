@@ -26,6 +26,7 @@ export const InputLabel = styled.label`
   font-weight: bold;
   font-size: 14px;
 `
+
 export const Button = styled.button`
   width: 100%;
   color: #fff;
